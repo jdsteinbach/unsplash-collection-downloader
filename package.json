@@ -15,7 +15,6 @@
   "author": "James Steinbach",
   "license": "ISC",
   "dependencies": {
-    "fs": "0.0.1-security",
     "isomorphic-fetch": "^2.2.1",
     "node-env-file": "^0.1.8",
     "request": "^2.88.0",
