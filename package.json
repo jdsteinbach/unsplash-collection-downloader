@@ -12,6 +12,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "bin": {
+    "unsplash-collection-downloader": "./bin/index.js"
+  },
+  "preferGlobal": true,
   "author": "James Steinbach",
   "license": "ISC",
   "dependencies": {
