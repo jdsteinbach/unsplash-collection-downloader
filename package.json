@@ -1,6 +1,6 @@
 {
   "name": "unsplash-collection-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Download Unsplash images from a specific collection to a local directory for wallpapers",
   "homepage": "https://github.com/jdsteinbach/unsplash-collection-downloader#Readme.md",
   "repository": {
