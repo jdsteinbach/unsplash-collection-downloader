@@ -13,7 +13,7 @@
     "start": "node index.js"
   },
   "bin": {
-    "unsplash-collection-downloader": "./bin/index.js"
+    "unsplash-collection-downloader": "./index.js"
   },
   "preferGlobal": true,
   "author": "James Steinbach",
